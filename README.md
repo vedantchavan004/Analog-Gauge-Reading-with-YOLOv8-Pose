@@ -18,5 +18,7 @@ This project demonstrates how to use a YOLOv8 pose estimation model to detect ke
 
 ---
 
-## 📁 Project Structure
+## 📦 Setup
+
+Open [`training_prediction.ipynb`](training_prediction.ipynb) in [Google Colab](https://colab.research.google.com/)
 
